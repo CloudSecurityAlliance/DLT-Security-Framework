@@ -1,6 +1,42 @@
 DLTI,Date,Parent DLTI,Incident Type,Type,Description,Notes,Amount,URL
+DLTI-2014-07-01-1,2014-07-01,,Vulnerability,Coinbase Wallet vulnerability,,,,https://www.coindesk.com/coinbase-apps-android-security-flaws-expert-warns
+DLTI-2014-07-13-1,2014-07-13,,News,Potential atacks against Bitcoin,,,,https://www.coindesk.com/banning-dumping-attacks-mining-bitcoin-hijacked
+DLTI-2014-07-14-1,2014-07-14,,Attack,,,,8 Million Veracoin,https://www.coindesk.com/bitcoin-protected-vericoin-stolen-mintpal-wallet-breach
+DLTI-2014-07-16-1,2014-07-16,,Vulnerability,Potential 51% Attack,,,,https://www.coindesk.com/ghash-commits-40-hashrate-cap-bitcoin-mining-summit
+DLTI-2014-07-21-1,2014-07-21,,News,,,,,https://www.coindesk.com/can-new-yorks-bitlicense-prevent-another-mt-gox-catastrophe
+DLTI-2014-09-26-1,2014-09-26,,Vulnerability,Bash Bug (ShellShock),,,,https://www.coindesk.com/bash-bug-concern-little-threat-bitcoin-services
+DLTI-2014-10-16-1,2014-10-16,,Vulnerability,Weak seed generation,,,,https://www.coindesk.com/open-source-tool-identifies-weak-bitcoin-wallet-signatures
+DLTI-2014-12-10-1,2014-12-10,DLTI-2014-10-16-1,Vulnerability,Weak seed generation,,,,https://www.coindesk.com/hacker-returns-225-btc-taken-blockchain-wallets
+DLTI-2015-07-15-1,2015-07-15,,Vulnerability,,,,,https://www.coindesk.com/hardware-vulnerability-could-compromise-bitcoin-private-keys
+DLTI-2015-07-29-1,2015-07-29,,News,US Government Funds $3 Million Cryptocurrency Research Initiative,,,,https://www.coindesk.com/us-government-funds-3-million-cryptocurrency-research-initiative
+DLTI-2015-08-13-1,2015-08-13,,Vulnerability,,the final bitcoin address is recorded in the blockchain as a password hash,,,https://www.coindesk.com/new-cracking-tool-exposes-major-flaw-in-bitcoin-brainwallets
+DLTI-2015-09-15-1,2015-09-15,,Threat,Bitcoin Extortion Group DD4BC Now Targeting Financial Services,DDoS attack extortion for Bitcoin,,,https://www.coindesk.com/bitcoin-extortion-group-dd4bc-now-targeting-financial-services
+DLTI-2016-06-09-1,2016-06-09,,Vulnerability,More Ethereum Attacks: Race-To-Empty is the Real Deal,,,,http://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
+DLTI-2016-06-11-1,2016-06-11,DLTI-2016-06-09-1,Vulnerability,,,,,https://www.reddit.com/r/ethereum/comments/4nmohu/from_the_maker_dao_slack_today_we_discovered_a/
+DLTI-2016-06-12-1,2016-06-12,DLTI-2016-06-09-1,Vulnerability,,,,,https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b#.z97z5af32
+DLTI-2016-06-13-1,2016-06-13,DLTI-2016-06-09-1,Vulnerability,,,,,https://blog.slock.it/announcing-dao-framework-1-1-35249e2e001#.e7yx611x9
+DLTI-2016-06-14-1,2016-06-14,DLTI-2016-06-09-1,Vulnerability,,,,,https://www.coindesk.com/leaderless-dao-put-test-following-reported-ethereum-vulnerability
+DLTI-2016-06-17-1,2016-06-17,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/sue-dao-hacker
+DLTI-2016-06-17-2,2016-06-17,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/the-dao-is-closing-down
+DLTI-2016-06-17-3,2016-06-17,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/will-ethereum-hard-fork
+DLTI-2016-06-17-4,2016-06-17,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/dao-attacked-code-issue-leads-60-million-ether-theft
 DLTI-2016-06-18-1,2016-06-18,,Attack,Reentrancy attack,Ethereum DAO,,,https://pastebin.com/CcGUBgDG
+DLTI-2016-06-18-2,2016-06-18,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/the-dao-an-analysis-of-the-fallout
+DLTI-2016-06-25-1,2016-06-25,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/understanding-dao-hack-journalists
+DLTI-2016-06-28-1,2016-06-28,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/ethereum-vulnerability-may-prevent-soft-fork
+DLTI-2016-06-29-1,2016-06-29,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/spectre-ethereum-hardfork-worries-anz-banking-group
+DLTI-2016-07-13-1,2016-07-13,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/author-daos-original-code-minimize-regulatory-backlash
+DLTI-2016-07-15-1,2016-07-15,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/ether-prices-spike-12-amid-build-hard-fork
+DLTI-2016-07-18-1,2016-07-18,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/hard-fork-ethereum-dao
+DLTI-2016-07-20-1,2016-07-20,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/cornell-professor-calls-hard-fork-rite-passage-ethereum
+DLTI-2016-07-22-1,2016-07-22,DLTI-2016-06-18-1,Attack,,,,,https://www.coindesk.com/bitcoin-core-ethereum-hard-fork-unsettling-precedent
+DLTI-2016-07-23-1,2016-07-23,,Improvement,Bitcoin as a trust anchor,,,,https://www.coindesk.com/bitcoin-the-trust-anchor-in-a-sea-of-blockchains
+DLTI-2016-08-03-1,2016-08-03,,Attack,Exchange Hack,Multiple sig Wallets affected,,$60 Million USD in Bitcoin,https://www.coindesk.com/bitfinex-bitcoin-hack-know-dont-know
+DLTI-2016-08-05-1,2016-08-05,DLTI-2016-08-03-1,Attack,Exchange Hack,Multiple sig Wallets affected,,,https://www.coindesk.com/bitcoin-bitfinex-hack-multi-sig
 DLTI-2016-09-04-1,2016-09-04,,Attack,51% Attack,51% Attack,"Krypton and Shift, two blockchains based on ethereum, suffered 51% attacks in August 2016.",,https://news.bitcoin.com/ethereum-clones-susceptible-51-attacks/
+DLTI-2016-10-06-1,2016-10-06,,Attack,DoS Attack against ethereum,,,,https://www.coindesk.com/so-ethereums-blockchain-is-still-under-attack
+DLTI-2016-11-14-1,2016-11-14,,News,Zcash - destruction of original system to prevent recovery,,,,https://www.coindesk.com/defending-zcash-blockchain-art-security-theater
+DLTI-2017-02-24-1,2017-02-24,,Vulnerability,CloudFlare CloudBleed,,,,https://www.coindesk.com/cloudflare-bug-password-warnings-bitcoin-exchanges
 DLTI-2018-08-15-1,2018-08-15,,Attack,SIM swap,Man Sues Teenager's 'Crew of Evil Computer Geniuses' Over Crypto Heist,15 years old at the time?,$100 million,https://it.slashdot.org/story/20/05/09/2129251/man-sues-teenagers-crew-of-evil-computer-geniuses-over-crypto-heist
 DLTI-2019-06-13-1,2019-06-13,,Attack,Extraction of encrypted data from hardware wallet followed by brute force attack,,,,https://medium.com/shapeshift-stories/responding-to-ledgers-2019-breakingbitcoin-findings-4213849a4fb
 DLTI-2019-12-11-1,2019-12-11,DLTI-2019-06-13-1,Vulnerability,,,,,https://www.coindesk.com/kraken-75-device-will-get-you-into-crypto-hardware-wallet-keepkey
@@ -44,7 +80,7 @@ DLTI-2020-04-21-2,2020-04-21,,Attack,51% Attack,,,,https://gist.github.com/WhoSo
 DLTI-2020-04-21-3,2020-04-21,,Securities Fraud,Securities Fraud,"""w.io"" claimed to be part of the core team of Starteos, a Chinese crypto wallet based on the EOS network, in order to gain public trust. Offering high returns as bait, they lure uninformed crypto newbies to deposit EOS into the group’s account using the EOS Ecosystem App. ",,$52 million,https://cointelegraph.com/news/in-possible-exit-scam-chinese-eos-wallet-locks-up-52m-of-customer-funds?utm_campaign=Newsletter&utm_source=hs_email&utm_medium=email&utm_content=87284867&_hsenc=p2ANqtz-_CUhvZzswwYZGeYpLJ-GFY4-XIC08oQUjyJkDos-VJj5X-v4agXeWhQ2EWO6b99VAnwa9aO3qYQXlQfn72TCEctoXH-Tum9YNfEb3YiA22Uk2Auwc&_hsmi=87284867
 DLTI-2020-04-22-1,2020-04-22,DLTI-2020-04-21-1,Attack,51% Attack,,,$6.7 Million USD (almost),https://www.coindesk.com/miners-trick-stablecoin-protocol-pegnet-turning-11-into-almost-7m-hoard
 DLTI-2020-04-24-1,2020-04-21,DLTI-2020-04-19-1,Attack,,dForce Hacker Returns Almost All of Stolen $25M in Crypto,,RETURNED MONEY,https://www.coindesk.com/dforce-hacker-returns-almost-all-of-stolen-25m-in-crypto
-DLTI-2020-04-24-2,2020-04-24,,Imnprovement,Secure Pricing Oracle,,,,https://www.coindesk.com/coinbase-launches-price-oracle-aimed-to-reduce-systemic-risk-in-the-defi-space
+DLTI-2020-04-24-2,2020-04-24,,Improvement,Secure Pricing Oracle,,,,https://www.coindesk.com/coinbase-launches-price-oracle-aimed-to-reduce-systemic-risk-in-the-defi-space
 DLTI-2020-05-01-1,2020-05-01,,Vulnerability,Security Fix,Blockfolio Quietly Patches Years-Old Security Hole That Exposed Source Code,,,https://www.coindesk.com/blockfolio-quietly-patches-years-old-security-hole-that-exposed-source-code
 DLTI-2020-05-03-1,2020-05-03,,Attack,Cryptomining,,,,https://status.ghost.org/incidents/tpn078sqk973
 DLTI-2020-05-04-1,2020-05-04,DLTI-2020-05-03-1,Attack,Cryptomining,,,,https://www.coindesk.com/hackers-plant-crypto-miners-by-exploiting-flaw-in-popular-server-framework-salt
