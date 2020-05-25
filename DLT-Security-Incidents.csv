@@ -1,8 +1,12 @@
 DLTI,Date,Parent DLTI,Incident Type,Type,Description,Notes,Amount,URL
+DLTI-2014-05-02-1,2014-05-02,,Attack,Exchange Hack,"Poloniex, which trades bitcoin and other popular digital currencies such as litecoin, namecoin and dogecoin, has lost 12.3% of its total bitcoin supply in an attack.",,,https://www.coindesk.com/poloniex-loses-12-3-bitcoins-latest-bitcoin-exchange-hack
+DLTI-2014-06-19-1,2014-06-19,,Attack,Cryptomining,,,,https://www.coindesk.com/how-homeowners-helped-hackers-500-million-dogecoins
 DLTI-2014-07-01-1,2014-07-01,,Vulnerability,Coinbase Wallet vulnerability,,,,https://www.coindesk.com/coinbase-apps-android-security-flaws-expert-warns
+DLTI-2014-07-02-1,2014-07-02,DLTI-2014-05-02-1,Attack,Exchange Hack,Poloniex has released a new update on the customer repayment plan it implemented following the loss of 12.3% of its total bitcoins in a March attack.,,,https://www.coindesk.com/poloniex-claims-customers-repaid-following-march-bitcoin-hack
 DLTI-2014-07-13-1,2014-07-13,,News,Potential atacks against Bitcoin,,,,https://www.coindesk.com/banning-dumping-attacks-mining-bitcoin-hijacked
 DLTI-2014-07-14-1,2014-07-14,,Attack,,,,8 Million Veracoin,https://www.coindesk.com/bitcoin-protected-vericoin-stolen-mintpal-wallet-breach
 DLTI-2014-07-16-1,2014-07-16,,Vulnerability,Potential 51% Attack,,,,https://www.coindesk.com/ghash-commits-40-hashrate-cap-bitcoin-mining-summit
+DLTI-2014-07-20-1,2014-07-20,DLTI-2014-07-16-1,Vulnerability,Potential 51% Attack,,,,https://www.coindesk.com/51-attacks-real-threat-bitcoin
 DLTI-2014-07-21-1,2014-07-21,,News,,,,,https://www.coindesk.com/can-new-yorks-bitlicense-prevent-another-mt-gox-catastrophe
 DLTI-2014-09-26-1,2014-09-26,,Vulnerability,Bash Bug (ShellShock),,,,https://www.coindesk.com/bash-bug-concern-little-threat-bitcoin-services
 DLTI-2014-10-16-1,2014-10-16,,Vulnerability,Weak seed generation,,,,https://www.coindesk.com/open-source-tool-identifies-weak-bitcoin-wallet-signatures
@@ -37,6 +41,7 @@ DLTI-2016-09-04-1,2016-09-04,,Attack,51% Attack,51% Attack,"Krypton and Shift, t
 DLTI-2016-10-06-1,2016-10-06,,Attack,DoS Attack against ethereum,,,,https://www.coindesk.com/so-ethereums-blockchain-is-still-under-attack
 DLTI-2016-11-14-1,2016-11-14,,News,Zcash - destruction of original system to prevent recovery,,,,https://www.coindesk.com/defending-zcash-blockchain-art-security-theater
 DLTI-2017-02-24-1,2017-02-24,,Vulnerability,CloudFlare CloudBleed,,,,https://www.coindesk.com/cloudflare-bug-password-warnings-bitcoin-exchanges
+DLTI-2018-05-29-1,2018-05-29,,Attack,51% Attack,51% Attack,"In May of 2018, Bitcoin Gold BTG, at the time the 26th-largest cryptocurrency, suffered a 51% attack. The malicious actor or actors controlled a vast amount of Bitcoin Gold's hash power, such that even with Bitcoin Gold repeatedly attempting to raise the exchange thresholds, the attackers were able to double-spend for several days, eventually stealing more than $18 million worth of Bitcoin Gold.",,https://fortune.com/2018/05/29/bitcoin-gold-hack/
 DLTI-2018-08-15-1,2018-08-15,,Attack,SIM swap,Man Sues Teenager's 'Crew of Evil Computer Geniuses' Over Crypto Heist,15 years old at the time?,$100 million,https://it.slashdot.org/story/20/05/09/2129251/man-sues-teenagers-crew-of-evil-computer-geniuses-over-crypto-heist
 DLTI-2019-06-13-1,2019-06-13,,Attack,Extraction of encrypted data from hardware wallet followed by brute force attack,,,,https://medium.com/shapeshift-stories/responding-to-ledgers-2019-breakingbitcoin-findings-4213849a4fb
 DLTI-2019-12-11-1,2019-12-11,DLTI-2019-06-13-1,Vulnerability,,,,,https://www.coindesk.com/kraken-75-device-will-get-you-into-crypto-hardware-wallet-keepkey
@@ -88,4 +93,3 @@ DLTI-2020-05-04-2,2020-05-04,,Attack,Money Laundering,Crypto Exchanges blocked t
 DLTI-2020-05-19-1,2020-05-19,,Attack,Cryptomining,,,,https://www.coindesk.com/eu-supercomputers-hijacked-from-covid-19-research-to-mine-cryptocurrency
 DLTI-2020-05-19-2,2020-05-19,,Attack,SIM swap,,,,https://www.coindesk.com/blockfi-hacker-sim-swapped-employees-phone-no-funds-were-lost
 DLTI-2020-08-15-2,2020-08-15,DLTI-2018-08-15-1,Attack,,,,,https://yro.slashdot.org/story/18/08/15/2120221/investor-sues-att-over-two-factor-security-flaws-23-million-cryptocurrency-theft
-DLTI-2018-05-29-1,2018-05-29,,Attack,51% Attack,51% Attack,"In May of 2018, Bitcoin Gold BTG, at the time the 26th-largest cryptocurrency, suffered a 51% attack. The malicious actor or actors controlled a vast amount of Bitcoin Gold's hash power, such that even with Bitcoin Gold repeatedly attempting to raise the exchange thresholds, the attackers were able to double-spend for several days, eventually stealing more than $18 million worth of Bitcoin Gold.",,https://fortune.com/2018/05/29/bitcoin-gold-hack/
