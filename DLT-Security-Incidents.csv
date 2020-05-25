@@ -1,55 +1,55 @@
-DLTI,Date,Parent DLTI,Type,Description,Notes,Amount,URL
-DLTI-2016-06-18-1,2016-06-18,,Reentrancy attack,Ethereum DAO,,,https://pastebin.com/CcGUBgDG
-DLTI-2016-09-04-1,2016-09-04,,51% Attack,51% Attack,"Krypton and Shift, two blockchains based on ethereum, suffered 51% attacks in August 2016.",,https://news.bitcoin.com/ethereum-clones-susceptible-51-attacks/
-DLTI-2018-08-15-1,2018-08-15,,SIM swap,Man Sues Teenager's 'Crew of Evil Computer Geniuses' Over Crypto Heist,15 years old at the time?,$100 million,https://it.slashdot.org/story/20/05/09/2129251/man-sues-teenagers-crew-of-evil-computer-geniuses-over-crypto-heist
-DLTI-2019-06-13-1,2019-06-13,,Extraction of encrypted data from hardware wallet followed by brute force attack,,,,https://medium.com/shapeshift-stories/responding-to-ledgers-2019-breakingbitcoin-findings-4213849a4fb
-DLTI-2019-12-11-1,2019-12-11,DLTI-2019-06-13-1,,,,,https://www.coindesk.com/kraken-75-device-will-get-you-into-crypto-hardware-wallet-keepkey
-DLTI-2019-12-29-1,2019-12-29,,DoS,"There is an edge case where IRI [IOTA Reference Implementation] didn't account for a transaction that was shared between two distinct bundles. Once it marked it as 'counted' in one bundle, it was ignored for the next bundle",Could be triggered by attacker,0,https://github.com/iotaledger/iri/releases/tag/v1.8.3-RELEASE
-DLTI-2019-12-29-2,2019-12-30,DLTI-2019-12-29-1,DoS,,,0,https://www.coindesk.com/iota-fixes-minor-network-bug-following-15-hour-mainnet-downtime
-DLTI-2020-01-08-1,2020-01-08,,APT,North Korean Lazarus Group APT data theft,,UNKNOWN,https://securelist.com/operation-applejeus-sequel/95596/
-DLTI-2020-01-08-2,2020-01-09,DLTI-2020-01-08-1,APT,,,UNKNOWN,https://www.coindesk.com/north-korean-hackers-now-using-telegram-to-steal-crypto-kaspersky
-DLTI-2020-01-09-1,2020-01-09,,Cryptomining,"Cryptomining targeting vulnerable Exim, Confluence, and WebLogic servers",,UNKNOWN,https://cybersecurity.att.com/blogs/labs-research/att-alien-labs-analysis-of-an-active-cryptomining-worm
-DLTI-2020-01-09-2,2020-01-09,DLTI-2020-01-09-1,Cryptomining,,,UNKNOWN,https://www.coindesk.com/atts-cybersecurity-branch-breaks-down-crypto-miner-threat-to-email-servers
-DLTI-2020-01-10-1,2020-01-10,,SIM swap,,,$20 Million USD,https://www.coindesk.com/us-lawmakers-call-on-communications-regulator-to-tackle-sim-swapping-crime
-DLTI-2020-01-26-1,2020-01-26,,51% Attack,There were two 51% attacks on Bitcoin Gold BTGÕs blockchain last week on January 23rd.,Rented the hashpower using NiceHash,,https://twitter.com/bitcoingold/status/1221450315825807363
-DLTI-2020-01-27-1,2020-01-27,DLTI-2020-01-26-1,51% Attack,There were two 51% attacks on Bitcoin Gold BTGÕs blockchain last week on January 23rd.,Rented the hashpower using NiceHash,,https://www.coindesk.com/attackers-rent-hashing-power-to-hit-bitcoin-gold-with-new-51-attacks
-DLTI-2020-02-04-1,2020-02-04,,Fake Seed Generator,,,,https://blog.iota.org/iota-community-assists-local-authorities-with-arrest-of-fraud-suspect-for-creating-a-fake-seed-b5a5768adae2
-DLTI-2020-02-12-1,2020-02-12,,Multiple flaws,Investigating stolen tokens on Mainnet,,,https://status.iota.org/
-DLTI-2020-02-13-1,2020-02-13,DLTI-2020-02-12-1,Multiple flaws,,,,https://twitter.com/iotatoken/status/1227990537799524352
-DLTI-2020-02-15-1,2020-02-15,,Pricing Oracle related,,,,https://twitter.com/bzxHQ/status/1228717425387950080
-DLTI-2020-02-15-2,2020-02-15,2020-02-15,Pricing Oracle related,"Decentralized finance (DeFi) project bZx has suffered an attack in which a hacker successfully gamed multiple DeFi protocols to extract $350,000 from the platform, about 2 percent of the assets under management.",,"$350,000 USD",https://www.coindesk.com/exploit-during-ethdenver-reveals-experimental-nature-of-decentralized-finance
-DLTI-2020-02-21-1,2020-02-21,DLTI-2020-02-12-1,Multiple flaws,Trinity Attack Incident Part 1: Summary and next steps,,,https://blog.iota.org/trinity-attack-incident-part-1-summary-and-next-steps-8c7ccc4d81e8
-DLTI-2020-02-27-1,2020-02-27,,UNKNOWN,UNKNOWN,,,https://www.coindesk.com/draper-backed-exchange-in-lockdown-following-sophisticated-attack
-DLTI-2020-02-28-1,2020-02-28,,DoS,DoS against OKEx,,,https://weibointl.api.weibo.cn/share/127227080.html?weibo_id=4476959524659466
-DLTI-2020-02-28-2,2020-02-28,DLTI-2020-02-28-1,DoS,DoS against OKEx,,,https://www.coindesk.com/major-crypto-exchanges-bitfinex-and-okex-hit-by-traffic-denial-attacks
-DLTI-2020-02-28-3,2020-02-28,,DoS,Dos against Bitfinex,,,https://twitter.com/bitfinex/status/1233321316641640448
-DLTI-2020-02-28-4,2020-02-28,DLTI-2020-02-28-3,DoS,Dos against Bitfinex,,,https://www.coindesk.com/major-crypto-exchanges-bitfinex-and-okex-hit-by-traffic-denial-attacks
-DLTI-2020-03-25-1,2020-03-25,,Typo Squatting,,,,https://eosio.stackexchange.com/questions/5378/sent-eos-to-wrong-account-from-exchange-coinbase
-DLTI-2020-04-01-1,2020-04-01,,Cryptomining,Vollgar Crypto Miner (Monero),,,https://thehackernews.com/2020/04/backdoor-.html
-DLTI-2020-04-01-2,2020-04-01,DLTI-2020-04-01-1,Cryptomining,Vollgar Crypto Miner (Monero),,,https://www.coindesk.com/thousands-of-microsoft-servers-infected-by-crypto-mining-botnet-since-2018-says-report
-DLTI-2020-04-01-3,2020-04-01,DLTI-2018-08-15-1,,"AT&T Files for Dismissal in $24M Phone Hack Case, Claims Crypto Exec DidnÕt Read Terms",,,https://www.coindesk.com/att-files-for-dismissal-in-24m-phone-hack-case-claims-crypto-exec-didnt-read-tcs
-DLTI-2020-04-06-1,2020-04-06,,Security Fix,BOSminer Software,,,https://www.coindesk.com/us-agencies-publish-list-of-north-koreas-alleged-crypto-crimes
-DLTI-2020-04-07-1,2020-04-07,,,ÔShip-to-ShipÕ Trade and Other Secrets of North KoreaÕs Illicit $1.5B Crypto Stash,,,https://www.coindesk.com/ship-to-ship-trade-and-other-secrets-of-north-koreas-illicit-1-5b-crypto-stash
-DLTI-2020-04-07-4,2020-04-07,,Voice Assistant Attack,A New Ultrasonic Hack Can Exploit Your Siri,,,https://www.coindesk.com/a-new-ultrasonic-hack-can-exploit-your-siri
-DLTI-2020-04-08-1,2020-04-08,,default fallback address attack,,,,https://www.coindesk.com/hacker-exploits-flaw-in-decentralized-exchange-bisq-to-steal-250k
-DLTI-2020-04-08-6,2020-04-08,,Securities Fraud,US State Regulators Order â€˜Fraudulentâ€™ Crypto Mining Scheme to Shut Down,,,https://www.coindesk.com/us-state-regulators-order-fraudulent-crypto-mining-scheme-to-shut-down
-DLTI-2020-04-08-7,2020-04-08,,Securities Fraud,US Prosecutors Ask to Pause SEC Action Against Alleged Crypto Scammer,,,https://www.coindesk.com/us-prosecutors-look-to-streamline-criminal-case-against-alleged-crypto-scammer
-DLTI-2020-04-14-4,2020-04-14,,Malicious Web Extensions,,,,https://medium.com/mycrypto/discovering-fake-browser-extensions-that-target-users-of-ledger-trezor-mew-metamask-and-more-e281a2b80ff9
-DLTI-2020-04-15-1,2020-04-15,DLTI-2020-04-07-1,,US Agencies Publish List of North Korea's Alleged Crypto Crimes,,$1.5 Billion USD,https://www.coindesk.com/us-agencies-publish-list-of-north-koreas-alleged-crypto-crimes
-DLTI-2020-04-16-12,2020-04-16,LTI-2020-04-14-4,Malicious Web Extensions,,,,https://www.coindesk.com/mystery-hacker-tries-to-steal-crypto-through-fake-google-chrome-wallet-extensions
-DLTI-2020-04-18-1,2020-04-18,,,imBTC pool on Uniswap has been attacked & drained. The hacker utilized an attack vector on ERC777 tokens on Uniswap.,,,https://twitter.com/tokenlon/status/1251423721476116480
-DLTI-2020-04-19-1,2020-04-19,,Reentrancy Attack,,,$25 Million USD (later returned),https://www.coindesk.com/attacker-drains-decentralized-protocol-dforce-of-25m-in-weekend-attack
-DLTI-2020-04-21-1,2020-04-21,DLTI-2020-04-19-1,Reentrancy Attack,,,,https://www.coindesk.com/dforce-hacker-returns-almost-all-of-stolen-25m-in-crypto
-DLTI-2020-04-21-2,2020-04-21,,51% Attack,,,,https://gist.github.com/WhoSoup/9fde1ed533727f9783c87c97728de85e#file-postmortem
-DLTI-2020-04-21-3,2020-04-21,,Securities Fraud,"""w.io"" claimed to be part of the core team of Starteos, a Chinese crypto wallet based on the EOS network, in order to gain public trust. Offering high returns as bait, they lure uninformed crypto newbies to deposit EOS into the groupâ€™s account using the EOS Ecosystem App. ",,$52 million,https://cointelegraph.com/news/in-possible-exit-scam-chinese-eos-wallet-locks-up-52m-of-customer-funds?utm_campaign=Newsletter&utm_source=hs_email&utm_medium=email&utm_content=87284867&_hsenc=p2ANqtz-_CUhvZzswwYZGeYpLJ-GFY4-XIC08oQUjyJkDos-VJj5X-v4agXeWhQ2EWO6b99VAnwa9aO3qYQXlQfn72TCEctoXH-Tum9YNfEb3YiA22Uk2Auwc&_hsmi=87284867
-DLTI-2020-04-22-1,2020-04-22,DLTI-2020-04-21-1,51% Attack,,,$6.7 Million USD (almost),https://www.coindesk.com/miners-trick-stablecoin-protocol-pegnet-turning-11-into-almost-7m-hoard
-DLTI-2020-04-24-1,2020-04-21,DLTI-2020-04-19-1,,dForce Hacker Returns Almost All of Stolen $25M in Crypto,,RETURNED MONEY,https://www.coindesk.com/dforce-hacker-returns-almost-all-of-stolen-25m-in-crypto
-DLTI-2020-04-24-2,2020-04-24,,Secure Pricing Oracle,,,,https://www.coindesk.com/coinbase-launches-price-oracle-aimed-to-reduce-systemic-risk-in-the-defi-space
-DLTI-2020-05-01-1,2020-05-01,,Security Fix,Blockfolio Quietly Patches Years-Old Security Hole That Exposed Source Code,,,https://www.coindesk.com/blockfolio-quietly-patches-years-old-security-hole-that-exposed-source-code
-DLTI-2020-05-03-1,2020-05-03,,Cryptomining,,,,https://status.ghost.org/incidents/tpn078sqk973
-DLTI-2020-05-04-1,2020-05-04,DLTI-2020-05-03-1,Cryptomining,,,,https://www.coindesk.com/hackers-plant-crypto-miners-by-exploiting-flaw-in-popular-server-framework-salt
-DLTI-2020-05-04-2,2020-05-04,,Money Laundering,Crypto Exchanges blocked the transfers reducing the actual theft amount,There was some success by the defenders in this case (the bank),$5 million USD,https://decrypt.co/28216/massive-bank-heist-in-brazil-ends-in-failed-bitcoin-escape
-DLTI-2020-05-19-1,2020-05-19,,Cryptomining,,,,https://www.coindesk.com/eu-supercomputers-hijacked-from-covid-19-research-to-mine-cryptocurrency
-DLTI-2020-05-19-2,2020-05-19,,SIM swap,,,,https://www.coindesk.com/blockfi-hacker-sim-swapped-employees-phone-no-funds-were-lost
-DLTI-2020-08-15-2,2020-08-15,DLTI-2018-08-15-1,,,,,https://yro.slashdot.org/story/18/08/15/2120221/investor-sues-att-over-two-factor-security-flaws-23-million-cryptocurrency-theft
-DLTI-2081-05-29-1,2018-05-29,,51% Attack,51% Attack,"In May of 2018, Bitcoin Gold BTG, at the time the 26th-largest cryptocurrency, suffered a 51% attack. The malicious actor or actors controlled a vast amount of Bitcoin Gold's hash power, such that even with Bitcoin Gold repeatedly attempting to raise the exchange thresholds, the attackers were able to double-spend for several days, eventually stealing more than $18 million worth of Bitcoin Gold.",,https://fortune.com/2018/05/29/bitcoin-gold-hack/
+DLTI,Date,Parent DLTI,Incident Type,Type,Description,Notes,Amount,URL
+DLTI-2016-06-18-1,2016-06-18,,Attack,Reentrancy attack,Ethereum DAO,,,https://pastebin.com/CcGUBgDG
+DLTI-2016-09-04-1,2016-09-04,,Attack,51% Attack,51% Attack,"Krypton and Shift, two blockchains based on ethereum, suffered 51% attacks in August 2016.",,https://news.bitcoin.com/ethereum-clones-susceptible-51-attacks/
+DLTI-2018-08-15-1,2018-08-15,,Attack,SIM swap,Man Sues Teenager's 'Crew of Evil Computer Geniuses' Over Crypto Heist,15 years old at the time?,$100 million,https://it.slashdot.org/story/20/05/09/2129251/man-sues-teenagers-crew-of-evil-computer-geniuses-over-crypto-heist
+DLTI-2019-06-13-1,2019-06-13,,Attack,Extraction of encrypted data from hardware wallet followed by brute force attack,,,,https://medium.com/shapeshift-stories/responding-to-ledgers-2019-breakingbitcoin-findings-4213849a4fb
+DLTI-2019-12-11-1,2019-12-11,DLTI-2019-06-13-1,Vulnerability,,,,,https://www.coindesk.com/kraken-75-device-will-get-you-into-crypto-hardware-wallet-keepkey
+DLTI-2019-12-29-1,2019-12-29,,Attack,DoS,"There is an edge case where IRI [IOTA Reference Implementation] didn't account for a transaction that was shared between two distinct bundles. Once it marked it as 'counted' in one bundle, it was ignored for the next bundle",Could be triggered by attacker,0,https://github.com/iotaledger/iri/releases/tag/v1.8.3-RELEASE
+DLTI-2019-12-29-2,2019-12-30,DLTI-2019-12-29-1,Attack,DoS,,,0,https://www.coindesk.com/iota-fixes-minor-network-bug-following-15-hour-mainnet-downtime
+DLTI-2020-01-08-1,2020-01-08,,Attack,APT,North Korean Lazarus Group APT data theft,,UNKNOWN,https://securelist.com/operation-applejeus-sequel/95596/
+DLTI-2020-01-08-2,2020-01-09,DLTI-2020-01-08-1,Attack,APT,,,UNKNOWN,https://www.coindesk.com/north-korean-hackers-now-using-telegram-to-steal-crypto-kaspersky
+DLTI-2020-01-09-1,2020-01-09,,Attack,Cryptomining,"Cryptomining targeting vulnerable Exim, Confluence, and WebLogic servers",,UNKNOWN,https://cybersecurity.att.com/blogs/labs-research/att-alien-labs-analysis-of-an-active-cryptomining-worm
+DLTI-2020-01-09-2,2020-01-09,DLTI-2020-01-09-1,Attack,Cryptomining,,,UNKNOWN,https://www.coindesk.com/atts-cybersecurity-branch-breaks-down-crypto-miner-threat-to-email-servers
+DLTI-2020-01-10-1,2020-01-10,,Attack,SIM swap,,,$20 Million USD,https://www.coindesk.com/us-lawmakers-call-on-communications-regulator-to-tackle-sim-swapping-crime
+DLTI-2020-01-26-1,2020-01-26,,Attack,51% Attack,There were two 51% attacks on Bitcoin Gold BTGÕs blockchain last week on January 23rd.,Rented the hashpower using NiceHash,,https://twitter.com/bitcoingold/status/1221450315825807363
+DLTI-2020-01-27-1,2020-01-27,DLTI-2020-01-26-1,Attack,51% Attack,There were two 51% attacks on Bitcoin Gold BTGÕs blockchain last week on January 23rd.,Rented the hashpower using NiceHash,,https://www.coindesk.com/attackers-rent-hashing-power-to-hit-bitcoin-gold-with-new-51-attacks
+DLTI-2020-02-04-1,2020-02-04,,Attack,Fake Seed Generator,,,,https://blog.iota.org/iota-community-assists-local-authorities-with-arrest-of-fraud-suspect-for-creating-a-fake-seed-b5a5768adae2
+DLTI-2020-02-12-1,2020-02-12,,Attack,Multiple flaws,Investigating stolen tokens on Mainnet,,,https://status.iota.org/
+DLTI-2020-02-13-1,2020-02-13,DLTI-2020-02-12-1,Attack,Multiple flaws,,,,https://twitter.com/iotatoken/status/1227990537799524352
+DLTI-2020-02-15-1,2020-02-15,,Attack,Pricing Oracle related,,,,https://twitter.com/bzxHQ/status/1228717425387950080
+DLTI-2020-02-15-2,2020-02-15,2020-02-15,Attack,Pricing Oracle related,"Decentralized finance (DeFi) project bZx has suffered an attack in which a hacker successfully gamed multiple DeFi protocols to extract $350,000 from the platform, about 2 percent of the assets under management.",,"$350,000 USD",https://www.coindesk.com/exploit-during-ethdenver-reveals-experimental-nature-of-decentralized-finance
+DLTI-2020-02-21-1,2020-02-21,DLTI-2020-02-12-1,Attack,Multiple flaws,Trinity Attack Incident Part 1: Summary and next steps,,,https://blog.iota.org/trinity-attack-incident-part-1-summary-and-next-steps-8c7ccc4d81e8
+DLTI-2020-02-27-1,2020-02-27,,Attack,UNKNOWN,UNKNOWN,,,https://www.coindesk.com/draper-backed-exchange-in-lockdown-following-sophisticated-attack
+DLTI-2020-02-28-1,2020-02-28,,Attack,DoS,DoS against OKEx,,,https://weibointl.api.weibo.cn/share/127227080.html?weibo_id=4476959524659466
+DLTI-2020-02-28-2,2020-02-28,DLTI-2020-02-28-1,Attack,DoS,DoS against OKEx,,,https://www.coindesk.com/major-crypto-exchanges-bitfinex-and-okex-hit-by-traffic-denial-attacks
+DLTI-2020-02-28-3,2020-02-28,,Attack,DoS,Dos against Bitfinex,,,https://twitter.com/bitfinex/status/1233321316641640448
+DLTI-2020-02-28-4,2020-02-28,DLTI-2020-02-28-3,Attack,DoS,Dos against Bitfinex,,,https://www.coindesk.com/major-crypto-exchanges-bitfinex-and-okex-hit-by-traffic-denial-attacks
+DLTI-2020-03-25-1,2020-03-25,,Vulnerability,Typo Squatting,,,,https://eosio.stackexchange.com/questions/5378/sent-eos-to-wrong-account-from-exchange-coinbase
+DLTI-2020-04-01-1,2020-04-01,,Attack,Cryptomining,Vollgar Crypto Miner (Monero),,,https://thehackernews.com/2020/04/backdoor-.html
+DLTI-2020-04-01-2,2020-04-01,DLTI-2020-04-01-1,Attack,Cryptomining,Vollgar Crypto Miner (Monero),,,https://www.coindesk.com/thousands-of-microsoft-servers-infected-by-crypto-mining-botnet-since-2018-says-report
+DLTI-2020-04-01-3,2020-04-01,DLTI-2018-08-15-1,Attack,,"AT&T Files for Dismissal in $24M Phone Hack Case, Claims Crypto Exec DidnÕt Read Terms",,,https://www.coindesk.com/att-files-for-dismissal-in-24m-phone-hack-case-claims-crypto-exec-didnt-read-tcs
+DLTI-2020-04-06-1,2020-04-06,,Security Fix,Security Fix,BOSminer Software,,,https://www.coindesk.com/us-agencies-publish-list-of-north-koreas-alleged-crypto-crimes
+DLTI-2020-04-07-1,2020-04-07,,News,,ÔShip-to-ShipÕ Trade and Other Secrets of North KoreaÕs Illicit $1.5B Crypto Stash,,,https://www.coindesk.com/ship-to-ship-trade-and-other-secrets-of-north-koreas-illicit-1-5b-crypto-stash
+DLTI-2020-04-07-4,2020-04-07,,Vulnerability,Voice Assistant Attack,A New Ultrasonic Hack Can Exploit Your Siri,,,https://www.coindesk.com/a-new-ultrasonic-hack-can-exploit-your-siri
+DLTI-2020-04-08-1,2020-04-08,,Attack,default fallback address attack,,,,https://www.coindesk.com/hacker-exploits-flaw-in-decentralized-exchange-bisq-to-steal-250k
+DLTI-2020-04-08-6,2020-04-08,,Securities Fraud,Securities Fraud,US State Regulators Order â€˜Fraudulentâ€™ Crypto Mining Scheme to Shut Down,,,https://www.coindesk.com/us-state-regulators-order-fraudulent-crypto-mining-scheme-to-shut-down
+DLTI-2020-04-08-7,2020-04-08,,Securities Fraud,Securities Fraud,US Prosecutors Ask to Pause SEC Action Against Alleged Crypto Scammer,,,https://www.coindesk.com/us-prosecutors-look-to-streamline-criminal-case-against-alleged-crypto-scammer
+DLTI-2020-04-14-4,2020-04-14,,Attack,Malicious Web Extensions,,,,https://medium.com/mycrypto/discovering-fake-browser-extensions-that-target-users-of-ledger-trezor-mew-metamask-and-more-e281a2b80ff9
+DLTI-2020-04-15-1,2020-04-15,DLTI-2020-04-07-1,News,,US Agencies Publish List of North Korea's Alleged Crypto Crimes,,$1.5 Billion USD,https://www.coindesk.com/us-agencies-publish-list-of-north-koreas-alleged-crypto-crimes
+DLTI-2020-04-16-12,2020-04-16,LTI-2020-04-14-4,Attack,Malicious Web Extensions,,,,https://www.coindesk.com/mystery-hacker-tries-to-steal-crypto-through-fake-google-chrome-wallet-extensions
+DLTI-2020-04-18-1,2020-04-18,,Attack,,imBTC pool on Uniswap has been attacked & drained. The hacker utilized an attack vector on ERC777 tokens on Uniswap.,,,https://twitter.com/tokenlon/status/1251423721476116480
+DLTI-2020-04-19-1,2020-04-19,,Attack,Reentrancy Attack,,,$25 Million USD (later returned),https://www.coindesk.com/attacker-drains-decentralized-protocol-dforce-of-25m-in-weekend-attack
+DLTI-2020-04-21-1,2020-04-21,DLTI-2020-04-19-1,Attack,Reentrancy Attack,,,,https://www.coindesk.com/dforce-hacker-returns-almost-all-of-stolen-25m-in-crypto
+DLTI-2020-04-21-2,2020-04-21,,Attack,51% Attack,,,,https://gist.github.com/WhoSoup/9fde1ed533727f9783c87c97728de85e#file-postmortem
+DLTI-2020-04-21-3,2020-04-21,,Securities Fraud,Securities Fraud,"""w.io"" claimed to be part of the core team of Starteos, a Chinese crypto wallet based on the EOS network, in order to gain public trust. Offering high returns as bait, they lure uninformed crypto newbies to deposit EOS into the groupâ€™s account using the EOS Ecosystem App. ",,$52 million,https://cointelegraph.com/news/in-possible-exit-scam-chinese-eos-wallet-locks-up-52m-of-customer-funds?utm_campaign=Newsletter&utm_source=hs_email&utm_medium=email&utm_content=87284867&_hsenc=p2ANqtz-_CUhvZzswwYZGeYpLJ-GFY4-XIC08oQUjyJkDos-VJj5X-v4agXeWhQ2EWO6b99VAnwa9aO3qYQXlQfn72TCEctoXH-Tum9YNfEb3YiA22Uk2Auwc&_hsmi=87284867
+DLTI-2020-04-22-1,2020-04-22,DLTI-2020-04-21-1,Attack,51% Attack,,,$6.7 Million USD (almost),https://www.coindesk.com/miners-trick-stablecoin-protocol-pegnet-turning-11-into-almost-7m-hoard
+DLTI-2020-04-24-1,2020-04-21,DLTI-2020-04-19-1,Attack,,dForce Hacker Returns Almost All of Stolen $25M in Crypto,,RETURNED MONEY,https://www.coindesk.com/dforce-hacker-returns-almost-all-of-stolen-25m-in-crypto
+DLTI-2020-04-24-2,2020-04-24,,Imnprovement,Secure Pricing Oracle,,,,https://www.coindesk.com/coinbase-launches-price-oracle-aimed-to-reduce-systemic-risk-in-the-defi-space
+DLTI-2020-05-01-1,2020-05-01,,Vulnerability,Security Fix,Blockfolio Quietly Patches Years-Old Security Hole That Exposed Source Code,,,https://www.coindesk.com/blockfolio-quietly-patches-years-old-security-hole-that-exposed-source-code
+DLTI-2020-05-03-1,2020-05-03,,Attack,Cryptomining,,,,https://status.ghost.org/incidents/tpn078sqk973
+DLTI-2020-05-04-1,2020-05-04,DLTI-2020-05-03-1,Attack,Cryptomining,,,,https://www.coindesk.com/hackers-plant-crypto-miners-by-exploiting-flaw-in-popular-server-framework-salt
+DLTI-2020-05-04-2,2020-05-04,,Attack,Money Laundering,Crypto Exchanges blocked the transfers reducing the actual theft amount,There was some success by the defenders in this case (the bank),$5 million USD,https://decrypt.co/28216/massive-bank-heist-in-brazil-ends-in-failed-bitcoin-escape
+DLTI-2020-05-19-1,2020-05-19,,Attack,Cryptomining,,,,https://www.coindesk.com/eu-supercomputers-hijacked-from-covid-19-research-to-mine-cryptocurrency
+DLTI-2020-05-19-2,2020-05-19,,Attack,SIM swap,,,,https://www.coindesk.com/blockfi-hacker-sim-swapped-employees-phone-no-funds-were-lost
+DLTI-2020-08-15-2,2020-08-15,DLTI-2018-08-15-1,Attack,,,,,https://yro.slashdot.org/story/18/08/15/2120221/investor-sues-att-over-two-factor-security-flaws-23-million-cryptocurrency-theft
+DLTI-2081-05-29-1,2018-05-29,,Attack,51% Attack,51% Attack,"In May of 2018, Bitcoin Gold BTG, at the time the 26th-largest cryptocurrency, suffered a 51% attack. The malicious actor or actors controlled a vast amount of Bitcoin Gold's hash power, such that even with Bitcoin Gold repeatedly attempting to raise the exchange thresholds, the attackers were able to double-spend for several days, eventually stealing more than $18 million worth of Bitcoin Gold.",,https://fortune.com/2018/05/29/bitcoin-gold-hack/
