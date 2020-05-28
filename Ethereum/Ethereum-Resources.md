@@ -21,7 +21,7 @@ Deprecated
 
 (https://github.com/eth-sri/securify)
 
-A paper on the scanner is available: (https://files.sri.inf.ethz.ch/website/papers/ccs18-securify.pdf) local copy: (ccs18-securify.pdf)
+A paper on the scanner is available: (https://files.sri.inf.ethz.ch/website/papers/ccs18-securify.pdf) local copy: [ccs18-securify.pdf](ccs18-securify.pdf)
 
 ## maddevsio / heimdall
 
