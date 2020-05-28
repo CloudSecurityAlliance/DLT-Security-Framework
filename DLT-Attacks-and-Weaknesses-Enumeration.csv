@@ -124,7 +124,7 @@ RPC Call vulnerability,,Node User,,,,,,,,,,,,,,,,
 Secrecy failure,,Smart Contract,,,,,,,,,,,,,,,,
 Selfish Mining Attack (Block Withholding Attack),,Consensus Protocols,,,,,,,,,,,,,,,,
 Shadowing State Variables,,Smart Contract,,CWE-710: Improper Adherence to Coding Standards,https://swcregistry.io/docs/SWC-119,,,,,,,,,,,,,
-Short Address Attack,,Smart Contract,,,,,,,,,,,,,,,,
+Short Address Attack,,Smart Contract,,CWE-345,,,,,,,,,,,,,,
 Signature Malleability,,Smart Contract,,CWE-347: Improper Verification of Cryptographic Signature,https://swcregistry.io/docs/SWC-117,,,,,,,,,,,,,
 Sim Port Attack,,Node User,,,,,,,,,,,,,,,,
 Single Perspective Validation,,Multiple,,,,Single Perspective Validation,,,,,,,,,,,,https://docs.google.com/document/d/1ntVHuprosF15UdDU7EOjm6Kfq2NXB-IATuhFP0a7NZY/edit
