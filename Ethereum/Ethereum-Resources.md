@@ -55,8 +55,10 @@ Deprecated
 
 (https://github.com/djandrei/nodejs-ethereum-scanner)
 
-## Securify
+## tagomaru / truffle-sca2t
 
 Deprecated
 
-(https://github.com/eth-sri/securify)
+> Smart contract auditing assistant tool for Truffle Framework.
+
+(https://github.com/tagomaru/truffle-sca2t)
