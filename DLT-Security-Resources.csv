@@ -1,6 +1,6 @@
 DLTSEC,Date,Type,Title,URL,Artifact,Keywords
-DLTSEC-0001,,Paper,Exploring the Attack Surface of Blockchain: A Systematic Overview,,https://arxiv.org/pdf/1904.03487.pdf,
-DLTSEC-0002,,Paper,Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit,https://arxiv.org/abs/2003.03810,https://arxiv.org/pdf/2003.03810.pdf,
+DLTSEC-0001,,Paper,Exploring the Attack Surface of Blockchain: A Systematic Overview,,A Taxonomy of Blockchain Threats and,
+DLTSEC-0002,,Paper,Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit,https://arxiv.org/abs/2003.03810,Vulnerabilities,
 DLTSEC-0003,,Paper,On the Feasibility of Sybil Attacks in Shard-Based Permissionless Blockchains,https://arxiv.org/abs/2002.06531,https://arxiv.org/pdf/2002.06531,
 DLTSEC-0004,,Paper,SoK: Transparent Dishonesty: Front-Running Attacks on Blockchain,,https://users.encs.concordia.ca/~clark/papers/2019_wtsc_front.pdf,
 DLTSEC-0005,,Paper,Attack Surface Analysis of Permissioned Blockchain Platforms for Smart Cities,,https://par.nsf.gov/servlets/purl/10083311,
@@ -28,3 +28,5 @@ DLTSEC-0026,,Stackexchange,Reentrancy on Stackexchange Ethereum,,https://ethereu
 DLTSEC-0027,2020-04-16,coindesk,Bitcoin’s Ransomware Problem Won’t Go Away,https://www.coindesk.com/bitcoins-ransomware-problem-wont-go-away,,
 DLTSEC-0028,2020-01-23,Announcement,Release of Securify v2.0,https://medium.com/chainsecurity/release-of-securify-v2-0-6304a40034f,,
 DLTSEC-0029,,WebSite,SWC Registry - Smart Contract Weakness Classification and Test Cases,https://swcregistry.io/,,
+DLTSEC-0030,,Checklist,CryptoFin's Solidity Auditing Checklist,https://github.com/cryptofinlabs/audit-checklist,,
+DLTSEC-0031,,Paper,A Taxonomy of Blockchain Threats and Vulnerabilities,https://www.preprints.org/manuscript/201909.0117/v1,,
