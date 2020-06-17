@@ -7,3 +7,5 @@ The discussion forum for this group is available at [Cloud Security Alliance Blo
 ## Workflow
 
 Please clone this repository, you can then make changes to your copy and submit PR's (pull requests).
+
+For information on this please see [GitHub - Forking Projects](https://guides.github.com/activities/forking/). 
