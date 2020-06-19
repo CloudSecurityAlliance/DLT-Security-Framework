@@ -1,6 +1,4 @@
-# FAQ
-
-## DLT-Security-Framework FAQ
+# DLT-Security-Framework FAQ
 
 ## What is the DLT-Security-Framework?
 
@@ -17,5 +15,7 @@
 ## What other security efforts are present in this space? Why aren’t you working with them?
 
 ## How do I participate in the DLT-Security-Framework?
+
+The [CSA Circle Platform hosts the Blockchain](https://circle.cloudsecurityalliance.org/community-home1?CommunityKey=a9786cbe-105a-420f-a353-8bbe10ab684d) working groups and you can find more information there.
 
 ## Will there be a way to show compliance with the DLT-Security-Framework?
