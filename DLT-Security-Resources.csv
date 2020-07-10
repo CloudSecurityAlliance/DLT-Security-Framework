@@ -34,3 +34,5 @@ DLTSEC-0032,,,Site,Ethereum Smart Contract Security Best Practices,https://conse
 DLTSEC-0033,,2020-06-17,Paper,Mauritus Security Token Offerings and Security Token Trading Systems,https://www.coindesk.com/mauritius-releases-guidance-licensed-security-token-offering,https://www.fscmauritius.org/media/84937/guidance-notes-no-3.pdf,
 DLTSEC-0034,,2020-04-02,Article,Threat matrix for Kubernetes,https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/,,Kubernetes
 DLTSEC-0035,DLTSEC-0034,2020-06-24,Article,Hackers Turn Kubernetes Machine Learning to Crypto Mining in Azure Cloud,https://virtualizationreview.com/articles/2020/06/24/azure-cloud-exploit.aspx?oly_enc_id=2104I9494578A3W,,"Kubernetes, CryptoMining"
+DLTSEC-0036,,2020-07-10,Site,"DHS Science and Technologyn ""S&T Invests Innovative Blockchain DLT Technologies""",https://www.dhs.gov/science-and-technology,,
+DLTSEC-0037,,,Article,7 Security Vulnerabilities in Ethereum Smart Contracts that can now be easily avoided!,https://medium.com/coinmonks/8-security-vulnerabilities-in-ethereum-smart-contracts-that-can-now-be-easily-avoided-dcb7de37a64,,
