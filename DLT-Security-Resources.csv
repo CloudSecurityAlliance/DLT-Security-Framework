@@ -1,34 +1,36 @@
-DLTSEC,Date,Type,Title,URL,Artifact,Keywords
-DLTSEC-0001,,Paper,Exploring the Attack Surface of Blockchain: A Systematic Overview,,A Taxonomy of Blockchain Threats and,
-DLTSEC-0002,,Paper,Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit,https://arxiv.org/abs/2003.03810,Vulnerabilities,
-DLTSEC-0003,,Paper,On the Feasibility of Sybil Attacks in Shard-Based Permissionless Blockchains,https://arxiv.org/abs/2002.06531,https://arxiv.org/pdf/2002.06531,
-DLTSEC-0004,,Paper,SoK: Transparent Dishonesty: Front-Running Attacks on Blockchain,,https://users.encs.concordia.ca/~clark/papers/2019_wtsc_front.pdf,
-DLTSEC-0005,,Paper,Attack Surface Analysis of Permissioned Blockchain Platforms for Smart Cities,,https://par.nsf.gov/servlets/purl/10083311,
-DLTSEC-0006,,Paper,Systematic Approach to Analyzing Security and Vulnerabilities of Blockchain Systems,,https://web.mit.edu/smadnick/www/wp/2019-05.pdf,
-DLTSEC-0007,,Article,Hypothetical Attacks on Cryptocurrencies,,https://blockgeeks.com/guides/hypothetical-attacks-on-cryptocurrencies/,
-DLTSEC-0008,,Article,10 Blockchain and New Age Security Attacks You Should Know,,https://blogs.arubanetworks.com/solutions/10-blockchain-and-new-age-security-attacks-you-should-know/,
-DLTSEC-0009,,Article,On blockchain security and relevant attacks,,https://ieeexplore.ieee.org/document/8371010,
-DLTSEC-0010,,Twitter thread,Can we get a thread of all the random things DeFi builders should do before their contract holds $25M?,,https://twitter.com/MyCrypto/status/1251927654539776000,
-DLTSEC-0011,,Paper,Libra_WhitePaperV2_April2020.pdf,,https://libra.org/en-US/wp-content/uploads/sites/23/2020/04/Libra_WhitePaperV2_April2020.pdf,
-DLTSEC-0012,,Blog,Chasing the DAO Attacker’s Wake,,https://pdaian.com/blog/chasing-the-dao-attackers-wake/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B14orChZBRIWvY%2Bzw5tX1LA%3D%3D,Ethereum DAO
-DLTSEC-0013,,Blog,Analysis of the DAO exploit,,https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/,Ethereum DAO
-DLTSEC-0014,,Site,Ethereum Contract Security Techniques and Tips,,https://github.com/ethereum/wiki/wiki/Safety,
-DLTSEC-0015,,Site,Ethereum Smart Contract Best Practices - Known Attacks,,https://consensys.github.io/smart-contract-best-practices/known_attacks/,Reentrancy
-DLTSEC-0016,,Blog,,,https://hackernoon.com/smart-contract-security-part-1-reentrancy-attacks-ddb3b2429302,Reentrancy
-DLTSEC-0017,,Blog,,,https://hackernoon.com/smart-contracts-part-2-the-legality-761cc4be100d,
-DLTSEC-0018,,Blog,,,https://hackernoon.com/smart-contracts-part-3-standardisation-cbfe7a6ac075,
-DLTSEC-0019,,Blog,,,https://medium.com/@gus_tavo_guim/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4,Reentrancy
-DLTSEC-0020,,Blog,“Reentrancy Attack” on a Smart Contract,,https://medium.com/@JusDev1988/reentrancy-attack-on-a-smart-contract-677eae1300f2,Reentrancy
-DLTSEC-0021,,Blog,SMART CONTRACT SECURITY: REENTRANCY ATTACKS,,https://blog.bountyone.io/smart-contract-security-reentrancy-attacks/?ref=quuu&utm_source=quuu,Reentrancy
-DLTSEC-0022,,Site,Ethereum price plunges after security vulnerability found in planned update,,https://siliconangle.com/2019/01/15/ethereum-price-plunges-security-vulnerability-found-planned-update/?utm_content=82904962&utm_medium=social&utm_source=twitter&hss_channel=tw-24358272,Reentrancy
-DLTSEC-0023,,Site,Vulnerability Is Found in Constantinople Hours After ETH Devs Call It ‘Least Eventful’ Hard Fork,,https://cointelegraph.com/news/vulnerability-is-found-in-constantinople-hours-after-eth-devs-call-it-least-eventful-hard-fork,Reentrancy
-DLTSEC-0024,,Blog,Protect Your Solidity Smart Contracts From Reentrancy Attacks,,https://medium.com/coinmonks/protect-your-solidity-smart-contracts-from-reentrancy-attacks-9972c3af7c21,Reentrancy
-DLTSEC-0025,,Stackexchange,Reentrancy Attack in a Smart contract,,https://ethereum.stackexchange.com/questions/59386/reentrancy-attack-in-a-smart-contract,
-DLTSEC-0026,,Stackexchange,Reentrancy on Stackexchange Ethereum,,https://ethereum.stackexchange.com/search?q=reentrancy,
-DLTSEC-0027,2020-04-16,coindesk,Bitcoin�s Ransomware Problem Won�t Go Away,https://www.coindesk.com/bitcoins-ransomware-problem-wont-go-away,,
-DLTSEC-0028,2020-01-23,Announcement,Release of Securify v2.0,https://medium.com/chainsecurity/release-of-securify-v2-0-6304a40034f,,
-DLTSEC-0029,,WebSite,SWC Registry - Smart Contract Weakness Classification and Test Cases,https://swcregistry.io/,,
-DLTSEC-0030,,Checklist,CryptoFin's Solidity Auditing Checklist,https://github.com/cryptofinlabs/audit-checklist,,
-DLTSEC-0031,,Paper,A Taxonomy of Blockchain Threats and Vulnerabilities,https://www.preprints.org/manuscript/201909.0117/v1,,
-DLTSEC-0032,,Site,Ethereum Smart Contract Security Best Practices,https://consensys.github.io/smart-contract-best-practices/,,
-DLTSEC-0033,2020-06-17,Paper,Mauritus Security Token Offerings and Security Token Trading Systems,https://www.coindesk.com/mauritius-releases-guidance-licensed-security-token-offering,https://www.fscmauritius.org/media/84937/guidance-notes-no-3.pdf,
+DLTSEC,Related DLTSEC,Date,Type,Title,URL,Artifact,Keywords
+DLTSEC-0001,,,Paper,Exploring the Attack Surface of Blockchain: A Systematic Overview,,A Taxonomy of Blockchain Threats and,
+DLTSEC-0002,,,Paper,Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit,https://arxiv.org/abs/2003.03810,Vulnerabilities,
+DLTSEC-0003,,,Paper,On the Feasibility of Sybil Attacks in Shard-Based Permissionless Blockchains,https://arxiv.org/abs/2002.06531,https://arxiv.org/pdf/2002.06531,
+DLTSEC-0004,,,Paper,SoK: Transparent Dishonesty: Front-Running Attacks on Blockchain,,https://users.encs.concordia.ca/~clark/papers/2019_wtsc_front.pdf,
+DLTSEC-0005,,,Paper,Attack Surface Analysis of Permissioned Blockchain Platforms for Smart Cities,,https://par.nsf.gov/servlets/purl/10083311,
+DLTSEC-0006,,,Paper,Systematic Approach to Analyzing Security and Vulnerabilities of Blockchain Systems,,https://web.mit.edu/smadnick/www/wp/2019-05.pdf,
+DLTSEC-0007,,,Article,Hypothetical Attacks on Cryptocurrencies,,https://blockgeeks.com/guides/hypothetical-attacks-on-cryptocurrencies/,
+DLTSEC-0008,,,Article,10 Blockchain and New Age Security Attacks You Should Know,,https://blogs.arubanetworks.com/solutions/10-blockchain-and-new-age-security-attacks-you-should-know/,
+DLTSEC-0009,,,Article,On blockchain security and relevant attacks,,https://ieeexplore.ieee.org/document/8371010,
+DLTSEC-0010,,,Twitter thread,Can we get a thread of all the random things DeFi builders should do before their contract holds $25M?,,https://twitter.com/MyCrypto/status/1251927654539776000,
+DLTSEC-0011,,,Paper,Libra_WhitePaperV2_April2020.pdf,,https://libra.org/en-US/wp-content/uploads/sites/23/2020/04/Libra_WhitePaperV2_April2020.pdf,
+DLTSEC-0012,,,Blog,Chasing the DAO Attacker’s Wake,,https://pdaian.com/blog/chasing-the-dao-attackers-wake/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3B14orChZBRIWvY%2Bzw5tX1LA%3D%3D,Ethereum DAO
+DLTSEC-0013,,,Blog,Analysis of the DAO exploit,,https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/,Ethereum DAO
+DLTSEC-0014,,,Site,Ethereum Contract Security Techniques and Tips,,https://github.com/ethereum/wiki/wiki/Safety,
+DLTSEC-0015,,,Site,Ethereum Smart Contract Best Practices - Known Attacks,,https://consensys.github.io/smart-contract-best-practices/known_attacks/,Reentrancy
+DLTSEC-0016,,,Blog,,,https://hackernoon.com/smart-contract-security-part-1-reentrancy-attacks-ddb3b2429302,Reentrancy
+DLTSEC-0017,,,Blog,,,https://hackernoon.com/smart-contracts-part-2-the-legality-761cc4be100d,
+DLTSEC-0018,,,Blog,,,https://hackernoon.com/smart-contracts-part-3-standardisation-cbfe7a6ac075,
+DLTSEC-0019,,,Blog,,,https://medium.com/@gus_tavo_guim/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4,Reentrancy
+DLTSEC-0020,,,Blog,“Reentrancy Attack” on a Smart Contract,,https://medium.com/@JusDev1988/reentrancy-attack-on-a-smart-contract-677eae1300f2,Reentrancy
+DLTSEC-0021,,,Blog,SMART CONTRACT SECURITY: REENTRANCY ATTACKS,,https://blog.bountyone.io/smart-contract-security-reentrancy-attacks/?ref=quuu&utm_source=quuu,Reentrancy
+DLTSEC-0022,,,Site,Ethereum price plunges after security vulnerability found in planned update,,https://siliconangle.com/2019/01/15/ethereum-price-plunges-security-vulnerability-found-planned-update/?utm_content=82904962&utm_medium=social&utm_source=twitter&hss_channel=tw-24358272,Reentrancy
+DLTSEC-0023,,,Site,Vulnerability Is Found in Constantinople Hours After ETH Devs Call It ‘Least Eventful’ Hard Fork,,https://cointelegraph.com/news/vulnerability-is-found-in-constantinople-hours-after-eth-devs-call-it-least-eventful-hard-fork,Reentrancy
+DLTSEC-0024,,,Blog,Protect Your Solidity Smart Contracts From Reentrancy Attacks,,https://medium.com/coinmonks/protect-your-solidity-smart-contracts-from-reentrancy-attacks-9972c3af7c21,Reentrancy
+DLTSEC-0025,,,Stackexchange,Reentrancy Attack in a Smart contract,,https://ethereum.stackexchange.com/questions/59386/reentrancy-attack-in-a-smart-contract,
+DLTSEC-0026,,,Stackexchange,Reentrancy on Stackexchange Ethereum,,https://ethereum.stackexchange.com/search?q=reentrancy,
+DLTSEC-0027,,2020-04-16,coindesk,Bitcoin�s Ransomware Problem Won�t Go Away,https://www.coindesk.com/bitcoins-ransomware-problem-wont-go-away,,
+DLTSEC-0028,,2020-01-23,Announcement,Release of Securify v2.0,https://medium.com/chainsecurity/release-of-securify-v2-0-6304a40034f,,
+DLTSEC-0029,,,WebSite,SWC Registry - Smart Contract Weakness Classification and Test Cases,https://swcregistry.io/,,
+DLTSEC-0030,,,Checklist,CryptoFin's Solidity Auditing Checklist,https://github.com/cryptofinlabs/audit-checklist,,
+DLTSEC-0031,,,Paper,A Taxonomy of Blockchain Threats and Vulnerabilities,https://www.preprints.org/manuscript/201909.0117/v1,,
+DLTSEC-0032,,,Site,Ethereum Smart Contract Security Best Practices,https://consensys.github.io/smart-contract-best-practices/,,
+DLTSEC-0033,,2020-06-17,Paper,Mauritus Security Token Offerings and Security Token Trading Systems,https://www.coindesk.com/mauritius-releases-guidance-licensed-security-token-offering,https://www.fscmauritius.org/media/84937/guidance-notes-no-3.pdf,
+DLTSEC-0034,,2020-04-02,Article,Threat matrix for Kubernetes,https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/,,Kubernetes
+DLTSEC-0035,DLTSEC-0034,2020-06-24,Article,Hackers Turn Kubernetes Machine Learning to Crypto Mining in Azure Cloud,https://virtualizationreview.com/articles/2020/06/24/azure-cloud-exploit.aspx?oly_enc_id=2104I9494578A3W,,"Kubernetes, CryptoMining"
