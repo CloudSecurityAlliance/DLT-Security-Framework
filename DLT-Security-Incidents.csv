@@ -58,8 +58,8 @@ DLTI-2015-08-13-1,2015-08-13,,,,,,Vulnerability,,the final bitcoin address is re
 DLTI-2015-09-15-1,2015-09-15,,,,,,Threat,Bitcoin Extortion Group DD4BC Now Targeting Financial Services,DDoS attack extortion for Bitcoin,,,https://www.coindesk.com/bitcoin-extortion-group-dd4bc-now-targeting-financial-services
 DLTI-2016-06-09-1,2016-06-09,,,,,,Vulnerability,More Ethereum Attacks: Race-To-Empty is the Real Deal,,,,http://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
 DLTI-2016-06-11-1,2016-06-11,DLTI-2016-06-09-1,,,,,Vulnerability,,,,,https://www.reddit.com/r/ethereum/comments/4nmohu/from_the_maker_dao_slack_today_we_discovered_a/
+DLTI-2016-06-11-2,2016-06-11,,,,,,Attack,Cryptomining,,,,https://www.coindesk.com/russian-countys-website-hacked-mine-cryptocurrency
 DLTI-2016-06-12-1,2016-06-12,DLTI-2016-06-09-1,,,,,Vulnerability,,,,,https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b#.z97z5af32
-DLTI-2016-06-12-1,2016-06-11,,,,,,Attack,Cryptomining,,,,https://www.coindesk.com/russian-countys-website-hacked-mine-cryptocurrency
 DLTI-2016-06-13-1,2016-06-13,DLTI-2016-06-09-1,,,,,Vulnerability,,,,,https://blog.slock.it/announcing-dao-framework-1-1-35249e2e001#.e7yx611x9
 DLTI-2016-06-14-1,2016-06-14,DLTI-2016-06-09-1,,,,,Vulnerability,,,,,https://www.coindesk.com/leaderless-dao-put-test-following-reported-ethereum-vulnerability
 DLTI-2016-06-17-1,2016-06-17,DLTI-2016-06-18-1,,,,,Attack,,,,,https://www.coindesk.com/sue-dao-hacker
@@ -789,6 +789,7 @@ DLTI-2020-06-19-01,2020-06-19,,Argent,Wallet,CVE-2020-15302,,Vulnerability,,,,,h
 DLTI-2020-06-28-01,2020-06-28,,Balancer,Exchange,,,Attack,Flash Loan,Incident with non-standard ERC20 deflationary tokens,,,https://medium.com/balancer-protocol/incident-with-non-standard-erc20-deflationary-tokens-95a0f6d46dea
 DLTI-2020-06-29-01,2020-06-29,DLTI-2020-06-28-01,Balancer,Exchange,,,Attack,Flash Loan,"Decentralized finance (DeFi) liquidity provider Balancer Pool admitted early Monday morning it had fallen victim to a sophisticated hack that exploited a loophole, tricking the protocol into releasing $500,000 worth of tokens.",,,https://www.coindesk.com/hacker-drains-defi-liquidity-balancer
 DLTI-2020-07-01-01,2020-07-01,,,,,,Attack,,,fake version of Trust Wallet via the Google Play store. The author managed to intercept some of the stolen funds and return them,,https://medium.com/mycrypto/intercepting-and-saving-5-000-worth-of-phished-crypto-9d2d6db6c527
+DLTI-2020-07-03-01,2020-07-03,,Ravencoin,,,,Attack,Fraud,Bad Ravencoin Code Allows Attackers to Generate Coins Without Mining,,,https://www.coindesk.com/bad-ravencoin-code-allows-attackers-to-generate-coins-without-mining
 DLTI-2020-07-09-01,2020-07-09,,Bitcoin,Mining Pool,,,Attack,Ponzi Scheme,BitClub Programmer Admits Mining Scheme Stole $722M in Bitcoin,,$722 Million,https://www.coindesk.com/bitclub-programmer-admits-mining-scheme-stole-722m-in-bitcoin
 DLTI-2020-07-09-02,2020-07-09,DLTI-2020-07-09-03,Ethereum,,,,Attack,Fraud,Crypto Seized as Chinese Police Bust Arbitrage Scam,,$15 Million,https://www.coindesk.com/ferrari-mclaren-and-15m-in-crypto-chinese-police-bust-novel-arbitrage-scam
 DLTI-2020-07-09-03,2020-07-09,,Ethereum,,,,Attack,Fraud,____?___?____________Ò____Ó______,"Own a Ferrari? Live in a villa? Wenzhou police destroy a large-scale blockchain ""smart contract"" technology criminal gang",,https://mp.weixin.qq.com/s/0MKpLFkMVDEcWEt1d0iG1A
