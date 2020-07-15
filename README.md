@@ -31,3 +31,5 @@ Simply edit the files in the text editor of your choice (I like Atom, it's cross
 ### Submitting a Pull Request (PR)
 
 Once you have committed your changes to your clone of the repository you can submit a Pull Request (PR) to ask those changes to be included in the main repository "cloudsecurityalliance/DLT-Security-Framework". In GitHub desktop simply hit "Ctrl-R" (on Windows) or "Command-R" (on MacOS) and a PR request window will be opened in the web browser you last used, so make sure it opens in a browser where you can login (or are already logged in) to GitHub. Simply add a commit message if needed and submit it.
+
+A review will be required before your changes are committed to the main branch.
