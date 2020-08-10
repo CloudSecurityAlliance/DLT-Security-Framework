@@ -1,3 +1,4 @@
+PLEASE USE THE GOOGLE SHEETS VERSION FOR NOW https://docs.google.com/spreadsheets/d/1HIM3BH8Cgth27ED4ruy9fXOpbOUAPAGY7merlZiE6_U/,,,,,,,,,,,,,,,,,,,
 Name,Subtype,Contributes to,Area,CWE(s),Related CWE(s),Source Material,Description,Extended Description,Modes of Introduction,Phase,Applicable Platforms,Common Consequences,Demonstrative Examples,Observed Examples,Memberships,Taxonomy Events,Related Attack Patterns,References,Google Doc
 Access Control - Smart Contract Initialization,,,Smart Contract,,,,,,,,,,,,,,,,
 Account Hijacking,,,Node User,,,,,,,,,,,,,,,,
