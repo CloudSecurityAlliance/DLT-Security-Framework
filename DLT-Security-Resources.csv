@@ -36,3 +36,5 @@ DLTSEC-0034,,2020-04-02,Article,Threat matrix for Kubernetes,https://www.microso
 DLTSEC-0035,DLTSEC-0034,2020-06-24,Article,Hackers Turn Kubernetes Machine Learning to Crypto Mining in Azure Cloud,https://virtualizationreview.com/articles/2020/06/24/azure-cloud-exploit.aspx?oly_enc_id=2104I9494578A3W,,"Kubernetes, CryptoMining"
 DLTSEC-0036,,2020-07-10,Site,"DHS Science and Technologyn ""S&T Invests Innovative Blockchain DLT Technologies""",https://www.dhs.gov/science-and-technology,,
 DLTSEC-0037,,,Article,7 Security Vulnerabilities in Ethereum Smart Contracts that can now be easily avoided!,https://medium.com/coinmonks/8-security-vulnerabilities-in-ethereum-smart-contracts-that-can-now-be-easily-avoided-dcb7de37a64,,
+DLTSEC-0038,,,Paper,Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts,https://eprint.iacr.org/2017/1090.pdf,,
+DLTSEC-0039,,,Paper,"Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges",https://arxiv.org/pdf/1904.05234.pdf,,
