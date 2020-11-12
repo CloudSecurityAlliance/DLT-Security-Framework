@@ -1,5 +1,5 @@
 ```mermaid
-LR
+graph LR
 DNS(DNS)
 DomainName -->|must have|DomainNameregistration[Domain Name registration]
 DomainNameregistration -->|must have|DomainNameregistrationAccesscredentials[Domain Name registration Access credentials]
