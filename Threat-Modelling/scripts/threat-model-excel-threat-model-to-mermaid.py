@@ -82,7 +82,7 @@ for key,value in mermaid_files.items():
     mermaid_diagram_name=key.replace(" ", "") + "(" + key.replace(" ", "") + ")"
     with open(outputfilename, "w") as outputfile:
         outputfile.write("```mermaid" + os.linesep)
-        outputfile.write("LR" + os.linesep)
+        outputfile.write("graph LR" + os.linesep)
         outputfile.write(mermaid_diagram_name + os.linesep)
         for mermaid_string_output in value["strings"]:
             outputfile.write(mermaid_string_output + os.linesep)
