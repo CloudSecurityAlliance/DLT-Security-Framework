@@ -1,12 +1,19 @@
 #!/usr/bin/env python3
 
 from openpyxl import load_workbook
+import os
 
 # Make sure to set data_only=True, we don't want formulas, just data
 
 workbook = load_workbook(filename="Threat Modelling Spreadsheet v2.0.xlsx",  data_only = "True")
 
-#print(workbook.sheetnames)
+# You can ignore then
+#
+# /usr/local/lib/python3.8/dist-packages/openpyxl/worksheet/_reader.py:300: UserWarning: Data Validation extension is not supported and will be removed warn(msg)
+#
+# This occurs because of the data validation used in the workbook which is not supported in openpyxl, and we don't need it since we just want the data
+
+# TODO: iterate through the sheets with relationships like IRelationships, DORelationships, ADRelationships, CBRelationships and ThreatModel
 
 ws_IRelationships = workbook["IRelationships"]
 
@@ -18,8 +25,6 @@ row_count=0
 #BlockchainAccountSecurityModel(BlockchainAccountSecurityModel)
 #CredentialStuffingAttack -->|results in|PasswordTheftAttack[Password Theft Attack]
 
-# Long term read TAGS, split on comma, use that as a dict to hold the strings, then write files, TAG.md
-
 # Initialize some variables here
 mermaid_string=""
 tags=[]
@@ -27,6 +32,8 @@ mermaid_files={}
 
 for row in ws_IRelationships.iter_rows():
     if row_count == 0:
+        # Ignore the first row
+        # TODO: is there an open csv like function that'll read the sheet in and auto populate a list? For now we use a janky state machine which will break if any columns get moved
         row_count = row_count + 1
     else:
         # Initialize variables at end of each row, the first row isn't used
@@ -45,6 +52,8 @@ for row in ws_IRelationships.iter_rows():
                 tags=cell.value.split(",")
                 # Check all tags and create a dict entry if we don't have one
                 for tag_entry in tags:
+                    # strip the starting space from the tag because, space, entry, for, tags
+                    tag_entry=tag_entry.lstrip(' ')
                     if tag_entry not in mermaid_files:
                         mermaid_files[tag_entry]={}
                         mermaid_files[tag_entry]["name"]=tag_entry
@@ -64,4 +73,16 @@ for row in ws_IRelationships.iter_rows():
                 mermaid_files[tag_entry]["strings"].append(mermaid_string)
                 mermaid_string=""
                 tags=[]
-print(mermaid_files)
+
+#
+# Put the data into files
+#
+for key,value in mermaid_files.items():
+    outputfilename=key + ".md"
+    mermaid_diagram_name=key.replace(" ", "") + "(" + key.replace(" ", "") + ")"
+    with open(outputfilename, "w") as outputfile:
+        outputfile.write("```mermaid" + os.linesep)
+        outputfile.write("LR" + os.linesep)
+        outputfile.write(mermaid_diagram_name + os.linesep)
+        for mermaid_string_output in value["strings"]:
+            outputfile.write(mermaid_string_output + os.linesep)
