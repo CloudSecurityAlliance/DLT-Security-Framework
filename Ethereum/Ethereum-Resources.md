@@ -23,6 +23,8 @@ The order is active then deprecated (marked as deprecated or no activity in 12 m
 
 ## JackLLLLL / eth-contract-scanner
 
+Good coverage from Consensys-https://consensys.github.io/smart-contract-best-practices/security_tools/
+
 Deprecated
 
 (https://github.com/JackLLLLL/eth-contract-scanner)
